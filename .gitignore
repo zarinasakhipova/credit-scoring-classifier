@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+
+# Mac system files
+.DS_Store
+
+# Parquet and CSV data files (optional: comment out if you want to track them)
+# *.pq
+# *.csv
